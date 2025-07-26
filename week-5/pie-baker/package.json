@@ -1,0 +1,12 @@
+{
+  "name": "pie-baker",
+  "version": "1.0.0",
+  "description": "A simple TDD pie baking module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/pie.spec.js"
+  },
+  "keywords": [],
+  "author": "Chris Newell",
+  "license": "ISC"
+}

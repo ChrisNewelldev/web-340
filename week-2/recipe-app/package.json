@@ -1,0 +1,12 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js recipe CLI app using CommonJS modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "author": "Chris Newell",
+  "license": "ISC"
+}

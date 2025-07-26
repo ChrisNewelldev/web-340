@@ -1,0 +1,12 @@
+{
+  "name": "taco-stand-app",
+  "version": "1.0.0",
+  "description": "Node.js CLI using EventEmitter to simulate taco stand operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/taco-stand.spec.js"
+  },
+  "author": "Chris Newell",
+  "license": "ISC"
+}

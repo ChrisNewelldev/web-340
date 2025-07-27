@@ -1,0 +1,19 @@
+{
+  "name": "fantasy-game-characters",
+  "version": "1.0.0",
+  "description": "A Node.js app for handling fantasy game character data via child processes",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Chris Newell",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0"
+  }
+}
